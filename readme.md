@@ -1,0 +1,1 @@
+# Phaser project template
